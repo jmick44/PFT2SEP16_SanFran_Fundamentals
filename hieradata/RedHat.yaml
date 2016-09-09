@@ -1,0 +1,5 @@
+---
+
+nginx::package : 'nginx'
+nginx::owner : 'training'
+nginx::group : 'training'
